@@ -8,6 +8,7 @@ https://github.com/pcchase617/Text-Editor
 
 Site Preview:
 
+![alt text](https://raw.githubusercontent.com/pcchase617/Text-Editor/main/text_editor.PNG)
 
 Requirements:
 
